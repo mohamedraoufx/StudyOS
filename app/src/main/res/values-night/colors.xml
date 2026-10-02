@@ -1,0 +1,15 @@
+<resources>
+    <color name="so_bg">#0F1115</color>
+    <color name="so_card">#1A1D24</color>
+    <color name="so_text">#F3F4F6</color>
+    <color name="so_text2">#9CA3AF</color>
+    <color name="so_primary">#818CF8</color>
+    <color name="so_on_primary">#1E1B4B</color>
+    <color name="so_primary_container">#312E81</color>
+    <color name="so_on_primary_container">#E0E7FF</color>
+    <color name="so_green">#4ADE80</color>
+    <color name="so_orange">#FBBF24</color>
+    <color name="so_red">#F87171</color>
+    <color name="so_divider">#2A2F3A</color>
+    <color name="ic_launcher_bg">#312E81</color>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.StudyOS" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/so_primary</item>
+        <item name="colorOnPrimary">@color/so_on_primary</item>
+        <item name="colorPrimaryContainer">@color/so_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/so_on_primary_container</item>
+        <item name="colorSecondaryContainer">@color/so_primary_container</item>
+        <item name="colorOnSecondaryContainer">@color/so_on_primary_container</item>
+        <item name="colorSurface">@color/so_card</item>
+        <item name="colorOnSurface">@color/so_text</item>
+        <item name="colorOnSurfaceVariant">@color/so_text2</item>
+        <item name="android:colorBackground">@color/so_bg</item>
+        <item name="android:windowBackground">@color/so_bg</item>
+        <item name="android:statusBarColor">@color/so_bg</item>
+    </style>
+</resources>
